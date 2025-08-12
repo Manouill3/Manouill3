@@ -8,7 +8,7 @@
 <body>
     <p>Hi, i'm currently student at 42 angouleme.</p>
     <h1>42 Project</h1>
-    <img src = >
+    <img src=img/libft.png alt="libft"/>
     <h1>My project</h1>
 </body> 
 </html>
