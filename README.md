@@ -29,6 +29,13 @@
     <a href="https://github.com/Manouill3/42-push_swap">
         <img src=img/push_swap.png alt="push_swap"/>
     </a>
+    <h3>Cercle 4</h3>
+    <a href="https://github.com/Manouill3/42-minishell">
+        <img src=img/minishell.png alt="minishell"/>
+    </a>
+    <a href="https://github.com/Manouill3/42-philosophers">
+        <img src=img/philo.png alt="philo"/>
+    </a>
     <h1>My project</h1>
 </body> 
 </html>
