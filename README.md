@@ -36,6 +36,10 @@
     <a href="https://github.com/Manouill3/42-philosophers">
         <img src=img/philo.png alt="philo"/>
     </a>
+    <h3>Cercle 5</h3>
+    <a href="https://github.com/Manouill3/42-cub3D">
+        <img src=img/cub3D.png alt="cub3D"/>
+    </a>
     <h1>My project</h1>
 </body> 
 </html>
