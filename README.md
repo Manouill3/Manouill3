@@ -19,7 +19,7 @@
     <a href="https://github.com/Manouill3/42-get_next_line">
         <img src=img/gnl.png alt="gnl"/>
     </a>
-    h3>Cercle 3</h3>
+    <h3>Cercle 3</h3>
     <a href="https://github.com/Manouill3/42-pipex">
         <img src=img/pipex.png alt="pipex"/>
     </a>
